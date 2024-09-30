@@ -1,7 +1,7 @@
 # oracle-apex-Mobile-shop
 This an Oracle Apex mobile shop simple app 
 
-___MOBILE SHOP SIMPLE APP Features___
+___MOBILE SHOP Simple APP Features___
 
 That app Helps mobile shop managers to manage their shop or their online store 
 helps him in:-
@@ -13,7 +13,7 @@ helps him in:-
 6- Show Details of the sell order or buy order in the 'sell order ' and ' buy order' pages 
 7- can also print the bill of sell order 
 
-___MOBILE SHOP SIMPLE APP Demo___
+___MOBILE SHOP Simple APP Image___
 
 Units Page 
 ![image](https://github.com/user-attachments/assets/51bced03-fd0d-4f80-81e9-4614cf3bf1bb)
@@ -46,11 +46,24 @@ Click on New Sell Order
 Preview / Edite and print on sell Order
 ![image](https://github.com/user-attachments/assets/0e97687b-662d-4301-ac03-1b1e439af866)
 
+Print sell Order Page 
+![image](https://github.com/user-attachments/assets/b9fdbadf-6224-4945-a356-de9a8ec89f4d)
+
+
 Buy Order 
 ![image](https://github.com/user-attachments/assets/78b53638-2e27-4460-a407-f9b7c996de1e)
 
 Preview / Edite on Buy Oder
 ![image](https://github.com/user-attachments/assets/ed70f1ad-60cd-409a-88b8-9b8f80cb5e8c)
+
+___MOBILE SHOP Simple APP link___
+
+https://apex.oracle.com/pls/apex/r/app001/mobile-shop/home?session=104624820878146
+
+Email:ZEADANWER001@GMAIL.COM
+
+Password:ZAjs233010ap
+
 
 
 
