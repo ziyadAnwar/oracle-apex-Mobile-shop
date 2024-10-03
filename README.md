@@ -60,9 +60,7 @@ ___MOBILE SHOP Simple APP link___
 
 https://apex.oracle.com/pls/apex/r/app001/mobile-shop/home?session=104624820878146
 
-Email:ZEADANWER001@GMAIL.COM
-
-Password:ZAjs233010ap
+Just Type Your Name To Open The App 
 
 
 
